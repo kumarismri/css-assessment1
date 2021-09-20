@@ -1,0 +1,36 @@
+.head{
+    color: red;
+}
+.para{
+    color: brown;
+}
+.gaira{
+    background-color: yellow;
+    color: brown;
+    font-weight: bold;
+}
+.aira{
+    text-decoration: line-through;
+}
+.table{
+    color: brown;
+    letter-spacing: 4px;
+}
+.para2{
+    color: chocolate;
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
+.para1{
+     color: chocolate;
+}
+
+.center{
+    margin-left: 40%;
+}
+
+.but{
+
+    text-decoration: none;
+}
